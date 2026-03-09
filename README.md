@@ -505,20 +505,6 @@ Test cases include:
 * Search functionality
 
 ---
-
-# 📊 Grading Breakdown
-
-| Section                         | Marks   |
-| ------------------------------- | ------- |
-| Environment Setup & JVM         | 10      |
-| Package Structure & Java Basics | 10      |
-| Core OOP Implementation         | 35      |
-| Application Logic               | 15      |
-| Bonus Features                  | 20      |
-| Total                           | **90+** |
-
----
-
 # 👨‍💻 Author
 
 Developed by:
@@ -527,8 +513,6 @@ Developed by:
 
 Java Developer | Backend Enthusiast
 
----
-
-# 📄 License
 
 This project is created for **educational purposes** as part of a Java learning program.
+
